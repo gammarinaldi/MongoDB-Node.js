@@ -1,0 +1,30 @@
+{
+  "name": "projectexpress",
+  "version": "1.0.0",
+  "description": "My first express js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gammarinaldi/ExpressJS.git"
+  },
+  "keywords": [
+    "Express",
+    "JS"
+  ],
+  "author": "Gama Rinaldi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gammarinaldi/ExpressJS/issues"
+  },
+  "homepage": "https://github.com/gammarinaldi/ExpressJS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mysql": "github:mysqljs/mysql",
+    "nodemon": "^1.18.9"
+  }
+}
